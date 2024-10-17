@@ -1,0 +1,1 @@
+Añadida otra linea a info_proyecto.txt en main
