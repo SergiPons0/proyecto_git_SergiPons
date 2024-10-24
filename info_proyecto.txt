@@ -1,10 +1,8 @@
-<<<<<<< HEAD
+HEAD
 Primera linea desde la rama master
 
 Primera linea del archivo desde rama desarrollo
 
-
-=======
 Cambio realizadoa desde rama desarrollo
 CAmbio realiado desde la rama desarrollo
 19ea5e4fa0fe215f194547fc838cebc43b646dae
